@@ -34,3 +34,6 @@ div {
     height: 100%;
     max-width: 950px;
 }
+.list {
+    list-style-type: disc;
+}

@@ -28,8 +28,9 @@ div {
     position:absolute;
     margin-left: 30%;
     position: fixed;
-    overflow-y: auto;
+    overflow-y: scroll;
     font-size: 40px;
     text-align: center;
-
+    height: 100%;
+    max-width: 950px;
 }

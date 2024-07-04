@@ -13,10 +13,19 @@ ul  {
     background: black;
 }
 li a {
+    display: block;
     color: white;
     text-decoration: none;
     font-size: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: justify;
 }
-li {
-    margin: 50px;
+li a:hover {
+    background-color: aqua;
+}
+div {
+    margin-left: 30%;
+    position: fixed;
+    overflow-y: auto;
 }

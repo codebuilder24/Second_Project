@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    overflow: auto;
+    width: 30%;
+    height: 100%;
+    background: black;
+}
+li a {
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+}
+li {
+    margin: 50px;
+}
